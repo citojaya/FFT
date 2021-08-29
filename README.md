@@ -1,2 +1,2 @@
 # FFT
-Fast Fourier Tranformation
+Fast Fourier Transformation
